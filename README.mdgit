@@ -1,0 +1,1 @@
+"# Discord-Music-Bot"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:Rauhlz/Discord-Music-Bot.gitgit push -u origin main
